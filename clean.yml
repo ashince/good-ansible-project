@@ -1,0 +1,4 @@
+- name: cleaning 3-tier application
+  hosts: all
+  roles:
+    - cleaner
